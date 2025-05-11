@@ -60,4 +60,5 @@ I am a graduate of Hijjawi Faculty for Engineering Technology at Yarmouk Univers
 
 **↑ ↓ arrows** — Go through commands you typed before.
 
-
+![Terminal-command-screensh](Terminal-command-screensh.png)
+*A screenshot of terminal commands I practiced.*
